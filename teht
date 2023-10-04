@@ -16,3 +16,11 @@ public class s {
     		System.out.println("Saat ajaa kevaria");    	    	
     }
     }
+	if (ika >= 18 && ika < 65)
+    	{
+    		System.out.println("Olet aikuinen");
+    	}
+    	if (ika > 18)
+    	{
+    		System.out.println("Saat ajaa autoa");
+    	}
