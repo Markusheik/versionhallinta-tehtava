@@ -24,3 +24,20 @@ public class s {
     	{
     		System.out.println("Saat ajaa autoa");
     	}
+if (ika >= 65)
+    {
+    	System.out.println("Olet eläkeläinen");
+    	System.out.println("Mukavia eläkepäiviä!");
+    }
+    if (ika == 100)
+    {
+    	System.out.println("Paljon onnea!!");
+    }
+    if (ika >= 58 && ika < 65)
+    {
+    	System.out.println("Voit mennä varhaiseläkkeelle");
+    }
+		if (ika >= 40 && ika < 50)
+		{
+			System.out.println("Elät parasta keski-ikää!");
+		}
